@@ -12,8 +12,6 @@ using System.Linq;
 
 namespace Calculator;
 
-//Task #1: initialize the calculator using Pure DI
-
 class Program
 {
     static void Main(string[] args)
